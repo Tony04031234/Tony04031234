@@ -22,6 +22,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+https://tonynguyen0403.substack.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
