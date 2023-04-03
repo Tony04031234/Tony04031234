@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://tony-portfolio-website.vercel.app](https://tony-portfolio-website.vercel.app)
-
 - 📝 I regularly write articles on [https://medium.com/@tonynguyen0403](https://medium.com/@tonynguyen0403)
 
 - 💬 Ask me about **React, Vue, Design**
