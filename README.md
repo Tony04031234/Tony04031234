@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tonynguyen0403" target="blank"><img src="https://img.shields.io/twitter/follow/tonynguyen0403?logo=twitter&style=for-the-badge" alt="tonynguyen0403" /></a> </p>
 
-- 🔭 I’m currently working on **HealthTech**
+- 🔭 I’m currently working on  **Sustainability** **HealthTech**
 
 - 🌱 I’m currently learning **React Native**
 
