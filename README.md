@@ -11,7 +11,7 @@ I'm an end-to-end software engineer and solo builder focused on shipping highly 
 ### 🛠 Core Toolkit
 * **Frontend:** Nextjs
 * **Mobile:** Flutter
-* **Systems:** Full-stack architecture, API design, hardware terminal integrations, production stability
+* **Systems:** Full-stack architecture, API design, hardware integrations, production stability
 
 ### ✍️ Writing & Thoughts
 I regularly document my engineering journey, technical deep-dives, and build logs:
