@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Tony Nguyen</h1>
-<h3 align="center">Showcasing my coding journey - one commit at a time.</h3>
+# Hi 👋, I'm Tony Nguyen
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tony04031234&label=Profile%20views&color=0e75b6&style=flat" alt="tony04031234" /> </p>
+I'm an end-to-end software engineer and solo builder focused on shipping highly stable, high-stakes software that actual businesses run on every day. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony04031234" alt="tony04031234" /></a> </p>
+### 🚀 What I do
+* **Shipped 10+ production projects** single-handedly as a solo freelancer.
+* Built and deployed custom **end-to-end POS systems** currently running the entire daily operations for a spa and 3+ restaurants across Adelaide.
+* Handle the full stack—from writing clean, reliable codebases to configuring physical terminal hardware integrations.
+* Focused on extreme shipping velocity and continuous delivery (**5,000+ contributions** in the last year).
 
-<p align="left"> <a href="https://twitter.com/tonynguyen0403" target="blank"><img src="https://img.shields.io/twitter/follow/tonynguyen0403?logo=twitter&style=for-the-badge" alt="tonynguyen0403" /></a> </p>
+### 🛠 Core Toolkit
+* **Frontend:** React, Vue, JavaScript, TypeScript
+* **Mobile:** React Native
+* **Systems:** Full-stack architecture, API design, hardware terminal integrations, production stability
 
-- 🔭 I’m currently working on  **Sustainability**, **HealthTech**
+### ✍️ Writing & Thoughts
+I regularly document my engineering journey, technical deep-dives, and build logs:
+* 📝 Read my deep dives on [Medium](https://medium.com/@tonynguyen0403)
+* ✉️ Subscribe to my updates on [Substack](https://tonynguyen0403.substack.com/)
 
-- 🌱 I’m currently learning **React Native**
+### 📫 Let's Connect
+* **Email:** tonynguyen0403@gmail.com
+* **LinkedIn:** [linkedin.com/in/tonynguyen0403](https://www.linkedin.com/in/tonynguyen0403/)
 
-- 📝 I regularly write articles on [https://medium.com/@tonynguyen0403](https://medium.com/@tonynguyen0403)
+---
 
-- 💬 Ask me about **React, Vue, Design**
-
-- 📫 How to reach me **tonynguyen0403@gmail.com**
-
-- ⚡ Fun fact **Did you know that there are more possible iterations of a game of chess than there are atoms in the observable universe? The number of possible moves in a game of chess is estimated to be around 10^120, while the estimated number of atoms in the observable universe is around 10^80. That's an incredibly large number of possible moves!**
+⚡ **Fun fact:** There are more possible iterations in a single game of chess (~10¹²⁰) than there are atoms in the observable universe (~10⁸⁰).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
