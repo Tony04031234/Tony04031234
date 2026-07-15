@@ -16,7 +16,6 @@ I'm an end-to-end software engineer and solo builder focused on shipping highly 
 ### ✍️ Writing & Thoughts
 I regularly document my engineering journey, technical deep-dives, and build logs:
 * 📝 Read my deep dives on [Medium](https://medium.com/@tonynguyen0403)
-* ✉️ Subscribe to my updates on [Substack](https://tonynguyen0403.substack.com/)
 
 ### 📫 Let's Connect
 * **Email:** tonynguyen0403@gmail.com
