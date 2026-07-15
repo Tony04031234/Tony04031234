@@ -6,7 +6,7 @@ I'm an end-to-end software engineer and solo builder focused on shipping highly 
 * **Shipped 10+ production projects** single-handedly as a solo freelancer.
 * Built and deployed custom **end-to-end POS systems** currently running the entire daily operations for a spa and 3+ restaurants across Adelaide.
 * Handle the full stack—from writing clean, reliable codebases to configuring physical terminal hardware integrations.
-* Focused on extreme shipping velocity and continuous delivery (**5,000+ contributions** in the last year).
+* Focused on extreme shipping velocity and continuous delivery.
 
 ### 🛠 Core Toolkit
 * **Frontend:** React, Vue, JavaScript, TypeScript
