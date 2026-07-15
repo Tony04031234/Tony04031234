@@ -9,8 +9,8 @@ I'm an end-to-end software engineer and solo builder focused on shipping highly 
 * Focused on extreme shipping velocity and continuous delivery.
 
 ### 🛠 Core Toolkit
-* **Frontend:** React, Vue, JavaScript, TypeScript
-* **Mobile:** React Native
+* **Frontend:** Nextjs
+* **Mobile:** Flutter
 * **Systems:** Full-stack architecture, API design, hardware terminal integrations, production stability
 
 ### ✍️ Writing & Thoughts
